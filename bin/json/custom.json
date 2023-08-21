@@ -1,0 +1,23 @@
+{
+    "My Custom Item": {
+        "File": "custom8x8",
+        "Index": 0,
+        "Size": 8,
+        "Quantity": 0,
+        "Contained": []
+    },
+    "My Bigger Custom Item": {
+        "File": "custom16x16",
+        "Index": 0,
+        "Size": 16,
+        "Quantity": 0,
+        "Contained": []
+    },
+    "My Huge Custom Item": {
+        "File": "custom32x32",
+        "Index": 0,
+        "Size": 32,
+        "Quantity": 0,
+        "Contained": []
+    }
+}
