@@ -1,0 +1,34 @@
+{
+    "XML URLs": [
+        "https://assets.muledump.com/xml/equip.xml",
+        "https://assets.muledump.com/xml/equipEggs.xml",
+        "https://assets.muledump.com/xml/equipGravestones.xml",
+        "https://assets.muledump.com/xml/equipKeys.xml",
+        "https://assets.muledump.com/xml/equipSkins.xml",
+        "https://assets.muledump.com/xml/pets.xml",
+        "https://assets.muledump.com/xml/token.xml"
+    ],
+    "Sheet URL": "https://assets.muledump.com/sheets/",
+    "Upscale": 4,
+    "Large Size": 52,
+    "Small Size": 38,
+    "Blueprint Size": 20,
+    "Quantity Font Size": 18,
+    "Auto Update": 0,
+    "Frequency Options": [
+        "",
+        "Once Per Account",
+        "Once Per Day      ",
+        "Once Per Week   ",
+        "Repeatable         "
+    ],
+    "Style": {
+        "bg": "#464646",
+        "bg2": "#221d21",
+        "fg1": "#f77014",
+        "fg2": "#e33c08",
+        "bright": "#e9dccf",
+        "borderwidth": 1,
+        "fontsize": 10
+    }
+}
