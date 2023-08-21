@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+  <Object id="My Custom Item">
+    <Texture>
+      <File>custom8x8</File>
+      <Index>0</Index>
+    </Texture>
+  </Object>
+  <Object id="My Bigger Custom Item">
+    <Texture>
+      <File>custom16x16</File>
+      <Index>0</Index>
+    </Texture>
+  </Object>
+  <Object id="My Huge Custom Item">
+    <Texture>
+      <File>custom32x32</File>
+      <Index>0</Index>
+    </Texture>
+  </Object>
+</Objects>
